@@ -1,3 +1,4 @@
+
 # Site
 name: "Mediumish"
 description: "Jekyll Template for Blogging"
@@ -48,3 +49,8 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
+
+
+#defaults
+#basepath:/
+
